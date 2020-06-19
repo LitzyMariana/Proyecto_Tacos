@@ -1,0 +1,21 @@
+.root{
+    -fx-background-image: url("https://image.freepik.com/vector-gratis/fondo-rojo-geometrico_1378-196.jpg");
+    -fx-background-size: cover, auto;
+}
+
+.button{
+-fx-background-color: #9A0E0E;
+-fx-border-color: white;
+-fx-border-width: 2;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-font-size: 17;
+}
+
+.table-view{
+-fx-pref-height: 500;
+-fx-pref-width: 400;
+-fx-background-color: white;
+-fx-font-weight: bold;
+-fx-font-size: 14;
+}

@@ -1,0 +1,21 @@
+.root{
+    -fx-background-image: url("https://image.freepik.com/vector-gratis/fondo-negro-rojo-metalico-abstracto_71775-751.jpg");
+    -fx-background-size: cover, auto;
+}
+
+.label{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 30;
+ }
+
+.button{
+-fx-pref-width: 300;
+-fx-pref-height: 100;
+-fx-background-color: #920606;
+-fx-border-color: white;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-font-size: 20;
+}
+

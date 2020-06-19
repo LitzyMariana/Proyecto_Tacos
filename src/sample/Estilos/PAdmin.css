@@ -1,0 +1,21 @@
+.root{
+    -fx-background-image: url("https://static5.depositphotos.com/1014528/508/v/450/depositphotos_5087501-stock-illustration-stylish-abstract-background.jpg");
+    -fx-background-size: cover, auto;
+}
+
+.label{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 30;
+ }
+
+.button{
+-fx-pref-width: 300;
+-fx-pref-height: 100;
+-fx-background-color: #920606;
+-fx-border-color: white;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-font-size: 20;
+}
+

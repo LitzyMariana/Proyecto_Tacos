@@ -1,0 +1,20 @@
+.root{
+    -fx-background-image: url("https://previews.123rf.com/images/asaneephoto/asaneephoto1706/asaneephoto170600365/80031170-marmol-blanco-natural-para-dise%C3%B1o-textura-patr%C3%B3n-y-fondo-marmol-natural-abstracto-blanco-y-negro-x28-con-a.jpg");
+    -fx-background-size: cover, auto;
+}
+
+.button{
+-fx-background-color: #2A2B34;
+-fx-border-color: black;
+-fx-border-width: 2;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-font-size: 14;
+}
+
+.label{
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+ }
+

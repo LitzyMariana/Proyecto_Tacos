@@ -1,0 +1,12 @@
+ .root{
+    -fx-background-image: url("https://i.redd.it/963jspb6hse31.png");
+    -fx-background-size: cover, auto;
+}
+
+.menu-bar{
+    -fx-background-color: #E7E6E5;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 15;
+}
+

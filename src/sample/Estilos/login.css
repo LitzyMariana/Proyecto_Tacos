@@ -1,0 +1,26 @@
+.root{
+    -fx-background-image: url("https://img.freepik.com/vector-gratis/fondo-rojo-diseno-tecnologia-moderna_43969-1040.jpg?size=626&ext=jpg");
+    -fx-background-size: cover, auto;
+}
+
+.label{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+ }
+
+.text-field {
+	-fx-pref-width: 185;
+	-fx-pref-height: 30;
+}
+
+.button{
+-fx-pref-width: 100;
+-fx-pref-height: 50;
+-fx-background-color: #920606;
+-fx-border-color: white;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-font-size: 20;
+}
+

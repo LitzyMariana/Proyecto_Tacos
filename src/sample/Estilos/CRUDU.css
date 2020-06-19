@@ -1,0 +1,21 @@
+.root{
+    -fx-background-image: url("https://image.freepik.com/foto-gratis/textura-fondo-marmol-negros-ilustraciones-modelo-diseno_24076-259.jpg");
+    -fx-background-size: cover, auto;
+}
+
+.button{
+-fx-background-color: #2A2B34;
+-fx-border-color: white;
+-fx-border-width: 2;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-font-size: 17;
+}
+
+.table-view{
+-fx-pref-height: 500;
+-fx-pref-width: 400;
+-fx-background-color: white;
+-fx-font-weight: bold;
+-fx-font-size: 14;
+}

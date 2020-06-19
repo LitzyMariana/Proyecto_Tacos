@@ -1,0 +1,20 @@
+.root{
+    -fx-background-image: url("https://image.freepik.com/vector-gratis/fondo-vector-triangular-poligono-mosaico-azul_53562-2331.jpg");
+    -fx-background-size: cover, auto;
+}
+
+.button{
+-fx-background-color: white;
+-fx-border-color: white;
+-fx-border-width: 2;
+-fx-text-fill: #040D6A;
+-fx-font-weight: bold;
+-fx-font-size: 14;
+}
+
+.label{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+ }
+

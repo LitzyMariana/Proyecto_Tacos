@@ -1,0 +1,20 @@
+.root{
+    -fx-background-image: url("https://img.freepik.com/foto-gratis/textura-marmol-negro-patron-natural-trabajos-arte-fondo-o-diseno_24076-444.jpg?size=626&ext=jpg");
+    -fx-background-size: cover, auto;
+}
+
+.button{
+-fx-background-color: #2A2B34;
+-fx-border-color: black;
+-fx-border-width: 2;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-font-size: 14;
+}
+
+.label{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+ }
+
